@@ -31,3 +31,8 @@ Please cite our paper if you use the code or the datasets in your own work
     year={2019},
 }
 ```
+
+## Contact
+
+For any inquiries, feel free to contact the project maintainer via [GitHub Issues](https://github.com/shchur/overlapping-community-detection/issues).
+***
